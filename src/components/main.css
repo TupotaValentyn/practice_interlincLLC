@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.wrapper{
+    padding: 5%;
+    width: calc(100vw - 10%);
+    height: calc(100vh - 10%);
+    outline: none;
+    background: #df6;
+}
+
